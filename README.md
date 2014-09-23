@@ -1,3 +1,5 @@
+<span class="octicon octicon-flame"></span
+
 # Octicons!
 
 This is the [Bower][bower] package for [GitHub Octicons][octicons].
