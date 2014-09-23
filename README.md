@@ -1,4 +1,4 @@
-<span class="octicon octicon-flame"></span
+<span class="octicon octicon-flame"></span>
 
 # Octicons!
 
