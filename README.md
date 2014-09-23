@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://octicons.github.com/components/octicons/octicons/octicons.css>
 <span class="octicon octicon-flame"></span>
-:octicon-alert:
+{{octicon-alert}}
 
 # Octicons!
 
